@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'paperclip', '~> 3.0'
+gem 'paperclip', '~> 4.2'
 
 # added bootstrap gem
 gem 'bootstrap-sass'
